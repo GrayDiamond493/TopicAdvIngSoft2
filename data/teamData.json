@@ -1,0 +1,164 @@
+{
+    "format": "Ubers",
+    "region": "paldea",
+    "gen": "Gen 9",
+    "pokemon": [
+      {
+        "name": "Mimikyu",
+        "nickname": "Mavis",
+        "held_item": "Life Orb",
+        "ability": "Disguise",
+        "moves": {
+          "move1": "Play Rough",
+          "move2": "Shadow Claw",
+          "move3": "Swords Dance",
+          "move4": "Shadow Sneak"
+        },
+        "details":{
+            "level":"100",
+            "gender":"F",
+            "shiny":"no"
+        },
+        "iv_spread": "31/31/31/31/31/31",
+        "effort_values": {
+          "hp": "0",
+          "atk": "252",
+          "def": "4",
+          "spa": "0",
+          "spd": "0",
+          "spe": "252"
+        }
+      },
+      {
+        "name": "Alolan Vulpix",
+        "nickname": "Alvis",
+        "held_item": "Light Clay",
+        "ability": "Snow Warning",
+        "moves": {
+          "move1": "Aurora Veil",
+          "move2": "Freeze-Dry",
+          "move3": "Hypnosis",
+          "move4": "Encore"
+        },
+        "details":{
+            "level":"100",
+            "gender":"M",
+            "shiny":"no"
+        },
+        "iv_spread": "31/0/31/31/31/31",
+        "effort_values": {
+          "hp": "248",
+          "atk": "0",
+          "def": "8",
+          "spa": "0",
+          "spd": "0",
+          "spe": "252"
+        }
+      },
+      {
+        "name": "Garchomp",
+        "nickname": "Nobunaga",
+        "held_item": "Choice Scarf",
+        "ability": "Rough Skin",
+        "moves": {
+          "move1": "Earthquake",
+          "move2": "Outrage",
+          "move3": "Stone Edge",
+          "move4": "Stealth Rock"
+        },
+        "details":{
+            "level":"100",
+            "gender":"M",
+            "shiny":"no"
+        },
+        "iv_spread": "31/31/31/31/31/31",
+        "effort_values": {
+          "hp": "0",
+          "atk": "252",
+          "def": "4",
+          "spa": "0",
+          "spd": "0",
+          "spe": "252"
+        }
+      },
+      {
+        "name": "Infernape",
+        "nickname": "",
+        "held_item": "Focus Sash",
+        "ability": "Blaze",
+        "moves": {
+          "move1": "Close Combat",
+          "move2": "Flare Blitz",
+          "move3": "U-turn",
+          "move4": "Grass Knot"
+        },
+        "details":{
+            "level":"100",
+            "gender":"M",
+            "shiny":"no"
+        },
+        "iv_spread": "31/31/31/31/31/31",
+        "effort_values": {
+          "hp": "0",
+          "atk": "252",
+          "def": "4",
+          "spa": "0",
+          "spd": "0",
+          "spe": "252"
+        }
+      },
+      {
+        "name": "Tinkaton",
+        "nickname": "Amy",
+        "held_item": "Leftovers",
+        "ability": "Mold Breaker",
+        "moves": {
+          "move1": "Gigaton Hammer",
+          "move2": "Knock Off",
+          "move3": "Stealth Rock",
+          "move4": "Play Rough"
+        },
+        "details":{
+            "level":"100",
+            "gender":"F",
+            "shiny":"no"
+        },
+        "iv_spread": "31/31/31/31/31/31",
+        "effort_values": {
+          "hp": "252",
+          "atk": "252",
+          "def": "4",
+          "spa": "0",
+          "spd": "0",
+          "spe": "0"
+        }
+      },
+      {
+        "name": "Ursaluna-Bloodmoon",
+        "nickname": "Ussuri",
+        "held_item": "Flame Orb",
+        "ability": "Guts",
+        "moves": {
+          "move1": "Facade",
+          "move2": "Earthquake",
+          "move3": "Close Combat",
+          "move4": "Protect"
+        },
+        "details":{
+            "level":"100",
+            "gender":"M",
+            "shiny":"no"
+        },
+        "iv_spread": "31/31/31/31/31/31",
+        "effort_values": {
+          "hp": "252",
+          "atk": "252",
+          "def": "4",
+          "spa": "0",
+          "spd": "0",
+          "spe": "0"
+        }
+      }
+    ]
+  }
+  
